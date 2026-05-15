@@ -1,26 +1,29 @@
 # Arquivos públicos legais
 
-Esta pasta contém versões públicas preparadas para futura hospedagem dos documentos legais do app Hora Certa Rodoviário.
+Esta pasta contém versões públicas dos documentos legais do app Hora Certa Rodoviário, preparadas para uso em hospedagem pública.
 
 Arquivos:
 
-- `privacy-policy.html`: versão pública preparada da Política de Privacidade.
-- `terms-of-use.html`: versão pública preparada dos Termos de Uso.
+- `privacy-policy.html`: versão pública da Política de Privacidade.
+- `terms-of-use.html`: versão pública dos Termos de Uso.
 
 ## Uso previsto
 
-Esses arquivos podem ser hospedados futuramente em uma opção escolhida pela Keluria Sistemas, como site próprio, GitHub Pages, Notion público, Google Sites ou outra plataforma adequada.
+Esses arquivos podem ser hospedados em uma opção escolhida pela Keluria Sistemas, como GitHub Pages, site próprio, Notion público, Google Sites ou outra plataforma adequada.
 
-A URL final ainda precisa ser definida. Nenhuma URL pública foi inventada neste projeto.
+URLs públicas atualmente registradas para uso no Google Play Console:
 
-Quando a Política de Privacidade for hospedada, a URL pública correspondente deverá ser informada no Google Play Console.
+- Política de Privacidade: https://keluria-sistemas.github.io/keluria-legal/privacy-policy.html
+- Termos de Uso: https://keluria-sistemas.github.io/keluria-legal/terms-of-use.html
+
+Se a hospedagem mudar no futuro, os checklists e o Google Play Console deverão ser atualizados com as novas URLs.
 
 ## Atenção
 
-- Estes arquivos ainda precisam de revisão jurídica antes da publicação pública definitiva.
+- Estes arquivos poderão ser revisados e atualizados conforme a evolução do app e eventual revisão jurídica.
 - Estes arquivos não substituem os documentos internos do projeto.
 - As versões internas continuam em `POLITICA_DE_PRIVACIDADE_PRE_FINAL.md` e `TERMOS_DE_USO_PRE_FINAL.md`.
-- Antes de hospedar, conferir se o estado real do app continua igual ao descrito nos documentos.
+- Antes de usar em uma versão pública final do app, conferir se o estado real do app continua igual ao descrito nos documentos.
 - Se forem implementados Billing, backup em nuvem, login, sincronização, CSV/exportação, PDF profissional ou outros tratamentos de dados, estes arquivos deverão ser revisados.
 
 Contato oficial informado nos documentos:
