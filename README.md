@@ -24,7 +24,7 @@ Se a hospedagem mudar no futuro, os checklists e o Google Play Console deverão 
 - Estes arquivos não substituem os documentos internos do projeto.
 - As versões internas continuam em `POLITICA_DE_PRIVACIDADE_PRE_FINAL.md` e `TERMOS_DE_USO_PRE_FINAL.md`.
 - Antes de usar em uma versão pública final do app, conferir se o estado real do app continua igual ao descrito nos documentos.
-- Se forem implementados Billing, backup em nuvem, login, sincronização, CSV/exportação, PDF profissional ou outros tratamentos de dados, estes arquivos deverão ser revisados.
+- Se forem implementados Billing, backup em nuvem, login, sincronização, CSV/exportação, fotos embutidas em PDF ou outros tratamentos de dados, estes arquivos deverão ser revisados.
 
 Contato oficial informado nos documentos:
 
